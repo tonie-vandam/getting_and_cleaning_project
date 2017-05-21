@@ -12,3 +12,8 @@ Creates a second, independent tidy data set with the average of each variable fo
 Steps to work on this course project
 
 run_analysis.R, then it will generate a new file tidy.txt in your working directory.
+
+Here are the data for the project:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
